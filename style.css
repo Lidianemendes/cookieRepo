@@ -1,0 +1,32 @@
+*{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    display: flex;
+justify-content: space-between;
+align-items: center;
+border: solid gray;
+
+}
+ul{
+    display:flex;
+    list-style: none;
+}
+
+h1{
+    color: orange;
+    font-family: 'Macondo', cursive;
+}
+input{
+    width: 12%;
+    height: 6vh;
+    
+    border: solid black;
+}
+img{
+    width: 120px;
+}
